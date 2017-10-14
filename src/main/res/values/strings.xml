@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PasswordPrefApplication</string>
+
+    <string-array name="listentries">
+        <item>10 Minutes</item>
+        <item>One Hour</item>
+        <item>One Day</item>
+        <item>One Month</item>
+
+
+    </string-array>
+    <string-array name="listvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+</resources>
